@@ -1,6 +1,6 @@
 ---
 title: "blog"
-subtitle: "Blog de dados abertos e as histórias que os dados contam."
+subtitle: "Blog de dados abertos e as histórias que os dados contam!"
 about:
   template: jolla
 ---
