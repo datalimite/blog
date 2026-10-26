@@ -1,0 +1,6 @@
+---
+title: "data-limite"
+subtitle: "Blog de dados abertos e as histórias que os dados contam."
+about:
+  template: jolla
+---

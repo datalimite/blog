@@ -1,0 +1,9 @@
+project:
+  type: website
+
+website:
+  title: "Data Limite (Blog)"
+  site-url: https://datalimite.github.io/blog/
+
+  repo-url: https://github.com/mjduarterosa/datalimite/blog
+  repo-actions: [edit, issue]
